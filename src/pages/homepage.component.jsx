@@ -10,27 +10,33 @@ import DigitalCurrencies from '../components/digital_currencies.component';
 import PreciousMetals from '../components/precious_metals.component';
 import Bonds from '../components/bonds.component';
 
+import './homepage.styles.css'; 
+
+
+
 const HomePage = () => (
   <Router>
   <div>
     <h1>Home Page</h1>
-    <ul>
-      <li>
-          <Link to="/real_estates">Real Estates</Link>
-      </li>
-      <li>
-          <Link to="/equities">Equities</Link>
-       </li>
-       <li>
-          <Link to="/digital_currencies">Digital Currencies</Link>
-       </li>
-       <li>
-          <Link to="/precious_metals">Precious Metals</Link>
-       </li>
-       <li>
-          <Link to="/bonds">Bonds</Link>
-       </li>
-    </ul>
+      <div>
+         <ul>
+            <li>
+               <Link to="/real_estates">Real Estates</Link>
+            </li>
+            <li>
+               <Link to="/equities">Equities</Link>
+            </li>
+            <li>
+               <Link to="/digital_currencies">Digital Currencies</Link>
+            </li>
+            <li>
+               <Link to="/precious_metals">Precious Metals</Link>
+            </li>
+            <li>
+               <Link to="/bonds">Bonds</Link>
+            </li>
+         </ul>
+      </div>
 
     <hr />
 
