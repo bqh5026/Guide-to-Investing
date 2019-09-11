@@ -14,10 +14,18 @@ const Equities = () => (
         a global jugglenaut.</p>
       </div>
       <div>
-        <h2>Big Cap Stocks</h2>
+        <h2>Mid Cap Stocks</h2>
       </div>
       <div>
+        <h2>Big Cap Stocks</h2>
+      </div>
+      <div className='international-stocks'>
         <h2>International Stocks</h2>
+        <p>
+        Finding international opportunities can be rewarding at times. Some of the most 
+        interesting companies can be found abroad such as Alibaba (BABA), Tencent (TCEHY), or 
+        JD.com (JD). 
+        </p>
       </div>
     </div>
   );
