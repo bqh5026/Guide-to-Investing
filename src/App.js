@@ -7,7 +7,7 @@ import HomePage from './pages/homepage.component';
 import RealEstates from './components/real_estates.component.jsx'; 
 import Equities from './components/Equities/equities.component';
 import DigitalCurrencies from './components/digital_currencies.component';
-import PreciousMetals from './components/precious_metals.component';
+import PreciousMetals from './components/precious_metals/precious_metals.component';
 import Bonds from './components/bonds.component';
 
 import Investing from './images/dollar-cost-vs-lump-sum-investing-2.jpg'; 

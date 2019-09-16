@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import RealEstates from '../components/real_estates.component.jsx'; 
 import Equities from '../components/Equities/equities.component';
 import DigitalCurrencies from '../components/digital_currencies.component';
-import PreciousMetals from '../components/precious_metals.component';
+import PreciousMetals from '../components/precious_metals/precious_metals.component';
 import Bonds from '../components/bonds.component';
 
 import './homepage.styles.css'; 
