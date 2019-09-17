@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './digital_currencies.styles.css';
+
 const DigitalCurrencies= () => (
     <div>
       <h1>Digital Currencies</h1>
