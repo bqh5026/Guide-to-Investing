@@ -4,7 +4,7 @@ import { HashRouter, Route, Link } from 'react-router-dom';
 import './App.css';
 
 import HomePage from './pages/homepage.component';
-import RealEstates from './components/real_estates.component.jsx'; 
+import RealEstates from './components/real_estates/real_estates.component';
 import Equities from './components/Equities/equities.component';
 import DigitalCurrencies from './components/digital_currencies/digital_currencies.component';
 import PreciousMetals from './components/precious_metals/precious_metals.component';
