@@ -8,7 +8,7 @@ import RealEstates from './components/real_estates/real_estates.component';
 import Equities from './components/Equities/equities.component';
 import DigitalCurrencies from './components/digital_currencies/digital_currencies.component';
 import PreciousMetals from './components/precious_metals/precious_metals.component';
-import Bonds from './components/bonds.component';
+import Bonds from './components/bonds/bonds.component'; 
 
 import Investing from './images/dollar-cost-vs-lump-sum-investing-2.jpg'; 
 
