@@ -4,7 +4,7 @@ import React from 'react';
 
 import homepageModule from './homepage.module.css'; 
 
-const HomePage = (props) => (
+const HomePage = () => (
 <div className={homepageModule.home}>
    <h1>Guide to Investing</h1>
    <p>The world of investing can be very exciting if you know what you are doing. One of the best
