@@ -2,7 +2,6 @@
   "name": "baseball-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bqh5026.github.io/Guide-to-Investing", 
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
