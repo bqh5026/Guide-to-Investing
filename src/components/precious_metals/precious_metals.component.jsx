@@ -1,7 +1,9 @@
 import React from 'react';
 
+import preciousMetalsModule from './precious_metals.module.css';
+
 const PreciousMetals = () => (
-    <div>
+    <div className={preciousMetalsModule.precious_metals}>
       <h1>Precious Metals</h1>
       <p>
       Gold is a popular investment in times of global uncertainties. Keeping gold bullions at 
