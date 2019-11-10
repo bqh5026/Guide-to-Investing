@@ -16,7 +16,10 @@ const HomePage = () => (
    an overview of the exciting investment world.</p>
 
    <p>Before you start, you should have at least a regular online brokerage account. Some of the online brokers
-   that I recommend are Etrade, Firstrade, Robinhood, and TD Ameritrade. The trend in the industry is moving 
+   that I recommend are <a href="https://us.etrade.com/home">Etrade</a>, <a href="https://www.firstrade.com/content/en-us/welcome">
+   Firstrade</a>, <a href="https://robinhood.com/">Robinhood</a>, and 
+   <a href="https://www.tdameritrade.com/why-td-ameritrade.page?a=pqm&cid=PSBRA&cid=PSBRA&ef_id=CjwKCAiA5JnuBRA-EiwA-0ggPbUCDJAA_48wUkxHs-FJlVyoOzpdmxN__WSbE4xExOiyekSqHRWg2xoCN30QAvD_BwE:G:s&s_kwcid=AL!2521!3!372792842090!e!!g!!td%2520ameritrade&referrer=https%253A%252F%252Fwww.google.com%252F">
+   TD Ameritrade</a>. The trend in the industry is moving 
    towards zero commision trading. Robinhood and Firstrade are the best online brokers for zero commision trading 
    that I know of at the moment. Etrade offers zero commision trading with certain limitations, but the Etrade platform is very 
    robust. Robinhood is destined to be the next unicorn company in the stock market, so Robinhood offers a 
